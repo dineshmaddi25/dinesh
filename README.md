@@ -1,7 +1,7 @@
 <img alt="Coder GIF" height=450 width=1150 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 <br>
 <h1 align="center">Hi 👋, I'm Dinesh Maddi</h1>
-<h3 align="center">Hi, I’m Dinesh Maddi! I’m really into computers and love figuring out how they work. As a software developer, I write code in languages like Python and Java to come up with creative solutions. I’m skilled in data science, machine learning, and web development, with a focus on NLP, deep learning, and data analysis. I’m good at data structures and algorithms too. I’ve also done well in competitive programming, ranking in the top 135 out of 2,800 at my university</h3>
+<h3 align="center">Hi, I’m Dinesh Maddi! I’m really into computers and love figuring out how they work. As a software developer, I write code in languages like Python and Java to come up with creative solutions. I’m skilled in data science, machine learning, and web development, with a focus on NLP, deep learning, and data analysis. I’m good at data structures and algorithms too. I’ve also done well in competitive programming, ranking in the top 135  at my university</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshmaddi25" alt="dineshmaddi25" /></a> </p>
 
